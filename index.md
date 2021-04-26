@@ -1,6 +1,6 @@
 ## Presentations Prof. Dr. Harald Sack 
 
-GitHub repository with pubicly available presentations by Prof. Dr. Harald Sack, FIZ Karlsruhe - Leibniz Institute for Information Engineering and Karlsruhe Institute of Technology (KIT), Institute of Applied Informatics and Formal Description Systems.
+GitHub repository with publicly available presentations by Prof. Dr. Harald Sack, FIZ Karlsruhe - Leibniz Institute for Information Engineering and Karlsruhe Institute of Technology (KIT), Institute of Applied Informatics and Formal Description Systems.
 - [Homepage at FIZ Karlsruhe](https://www.fiz-karlsruhe.de/en/forschung/publikationen-prof-dr-harald-sack)
 - [Homepage at KIT](https://www.aifb.kit.edu/web/Harald_Sack/en)
 
