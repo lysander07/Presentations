@@ -6,5 +6,6 @@ GitHub repository with publicly available presentations by Prof. Dr. Harald Sack
 
 ### Presentations 2021
 - **22.04.2021**: [Analytische Visualisierungen oder Wie explizite Semantik hilft Zusammenhänge aufzuzeigen](https://github.com/lysander07/Presentations/raw/main/Analytische%20Visualisierungen%20-%20WorkshopDH%2C%202021.pdf), Workshop Problemfelder und Lösungsvisionen im Umgang mit Datenbanken und Visualisierungen in digitaler Musikverlagsforschung und verwandten Gebieten der Digital Humanities. 
+- **13.04.2021**: [Everything you always wanted to know about Ontologies *but were afraid to ask](https://github.com/lysander07/Presentations/raw/main/Everything%20you%20always%20wanted%20to%20know%20about%20Ontologies%20_but%20were%20afraid%20to%20ask.pdf), Plattform Material Digital (PMD) Ontologies Workshop
 
 
