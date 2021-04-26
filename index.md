@@ -1,37 +1,10 @@
-## Welcome to GitHub Pages
+## Presentations Prof. Dr. Harald Sack 
 
-You can use the [editor on GitHub](https://github.com/lysander07/Presentations/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
+GitHub repository with pubicly available presentations by Prof. Dr. Harald Sack, FIZ Karlsruhe - Leibniz Institute for Information Engineering and Karlsruhe Institute of Technology (KIT), Institute of Applied Informatics and Formal Description Systems.
+- Homepage at FIZ Karlsruhe
+- Homepage at KIT
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+### Presentations 2021
+- **22.04.2021**: [Analytische Visualisierungen oder Wie explizite Semantik hilft Zusammenhänge aufzuzeigen](https://github.com/lysander07/Presentations/raw/main/Analytische%20Visualisierungen%20-%20WorkshopDH%2C%202021.pdf), Workshop Problemfelder und Lösungsvisionen im Umgang mit Datenbanken und Visualisierungen in digitaler Musikverlagsforschung und verwandten Gebieten der Digital Humanities. 
 
-### Markdown
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
-
-```markdown
-Syntax highlighted code block
-
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/lysander07/Presentations/settings/pages). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.
