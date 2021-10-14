@@ -5,6 +5,7 @@ GitHub repository with publicly available presentations by Prof. Dr. Harald Sack
 - [Homepage at KIT](https://www.aifb.kit.edu/web/Harald_Sack/en)
 
 ### Presentations 2021
+- **06.10.2021**: [Ein digitaler Werkzeugkasten für historische Forschung mit Archivgut Status quo und Perspektiven](https://github.com/lysander07/Presentations/raw/main/Historikertag_Werkzeugkasten.pdf), together with [Daniel Fähle](https://www.landesarchiv-bw.de/de/landesarchiv/ansprechpartnerinnen---ansprechpartner/zentrale-dienste---stuttgart/72902) from [Landesarchiv Baden-Württemberg](https://www.landesarchiv-bw.de/), 53. Deutscher Historikertag, Fachsektion.
 - **30.06.2021**: [Interoperability for Historiographical Research Data](https://github.com/lysander07/Presentations/raw/main/d4h21%20Podium%20HaraldSack%20-%202021-06-30.pdf), #d4f21 Data for History, Panel Discussion.
 - **28.06.2021**: [Responsible News Recommender Systems (ReNewRS)](https://github.com/lysander07/Presentations/raw/main/ReNewRS%20-%20Future%20Democracies%2C%2028.06.2021.pdf), 2nd Future Democracies Workshop, KIT.
 - **25.06.2021**: [FAIR Research Data Management with Knowledge Graphs and Ontologies](https://github.com/lysander07/Presentations/raw/main/FAIR%20Research%20Data%20Management%20with%20Knowledge%20Graphs%20and%20Ontologies%20-%20InnoMatSafety%2C%202021-06-25.pdf), InnoMatSafety Meeting.
