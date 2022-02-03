@@ -4,6 +4,9 @@ GitHub repository with publicly available presentations by Prof. Dr. Harald Sack
 - [Homepage at FIZ Karlsruhe](https://www.fiz-karlsruhe.de/en/forschung/publikationen-prof-dr-harald-sack)
 - [Homepage at KIT](https://www.aifb.kit.edu/web/Harald_Sack/en)
 
+### Presentations 2022
+- **04.02.2022**: ["With Knowledge Doubt Increases" - The Significance of Knowledge in Knowledge Graphs](https://github.com/lysander07/Presentations/blob/main/Keynote%20Graphs%20%26%20Networks%20in%20the%20Humanities%202022.pdf), Keynote at 6th International Conference Graphs & Networks in the Humanities 2022.
+
 ### Presentations 2021
 - **31.10.2021**: [The NFDI4Culture Knowledge Graph and WikiBase - Wikibase as RDM Infrastructure within NFDI4Culture](https://github.com/lysander07/Presentations/blob/main/NFDI4Culture%20Knowledge%20Graph%20and%20Wikibase.pdf), together with [Ina Blümel](https://im.f3.hs-hannover.de/studium/personen/dr-ina-bluemel/) and Lucia Somen from TIB Hannover, WikiDataCon 2021, WikiBase Track.
 - **06.10.2021**: [Ein digitaler Werkzeugkasten für historische Forschung mit Archivgut Status quo und Perspektiven](https://github.com/lysander07/Presentations/raw/main/Historikertag_Werkzeugkasten.pdf), together with [Daniel Fähle](https://www.landesarchiv-bw.de/de/landesarchiv/ansprechpartnerinnen---ansprechpartner/zentrale-dienste---stuttgart/72902) from [Landesarchiv Baden-Württemberg](https://www.landesarchiv-bw.de/), 53. Deutscher Historikertag, Fachsektion.
