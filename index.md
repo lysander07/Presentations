@@ -5,6 +5,7 @@ GitHub repository with publicly available presentations by Prof. Dr. Harald Sack
 - [Homepage at KIT](https://www.aifb.kit.edu/web/Harald_Sack/en)
 
 ### Presentations 2022
+- **07.03.2022**: [Knowledge Graphs and WikiBase @ nfdi4Culture](https://github.com/lysander07/Presentations/raw/main/2022-03-07-KnowledgeGraphs%40nfdi4Culture.pdf), NFDI Infratalks, online.
 - **04.02.2022**: ["With Knowledge Doubt Increases" - The Significance of Knowledge in Knowledge Graphs](https://github.com/lysander07/Presentations/blob/main/Keynote%20Graphs%20%26%20Networks%20in%20the%20Humanities%202022.pdf), Keynote at 6th International Conference Graphs & Networks in the Humanities 2022.
 
 ### Presentations 2021
