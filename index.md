@@ -5,6 +5,8 @@ GitHub repository with publicly available presentations by Prof. Dr. Harald Sack
 - [Homepage at KIT](https://www.aifb.kit.edu/web/Harald_Sack/en)
 
 ### Presentations 2022
+- **02.12.2022**: [Social and technical biases in Knowledge Graphs](https://github.com/lysander07/Presentations/raw/main/Symbolic%20and%20Subsymbolic%20AI%20%20-%20an%20Epic%20Dilemma_.pdf), [Kulturen der Künstlichen Intelligenz - Neue Perspektiven für Museen](https://www.landesmuseum.de/konferenz-ki-2022), Badisches Landesmuseum, Karlsruhe.
+- **13.09.2022**: [Symbolic and Subsymbolic AI - An Epic Dilemma!](https://github.com/lysander07/Presentations/raw/main/Social%20and%20Technical%20Biases%20in%20Knowledge%20Graphs%20-%20Dagstuhl%202022.pdf), [Knowledge Graphs and their Role in the Knowledge Engineering of the 21st Century](https://www.dagstuhl.de/en/program/calendar/semhp/?semnr=22372), Dagstuhl Seminar, Dagstuhl.
 - **28.04.2022**: [Pilotprojekt Wiedergutmachung Ludwigsburg - Wissenschaftlich-technische Herausforderungen und Stand der Arbeiten](https://github.com/lysander07/Presentations/blob/main/Wiedergutmachung%20-%20Status_2022-04.pdf), Unrecht erinnern – Unterlagen zur NS-Wiedergutmachung werden digital, Staatsarchiv Ludwigsburg.
 - **07.03.2022**: [Knowledge Graphs and WikiBase @ nfdi4Culture](https://github.com/lysander07/Presentations/raw/main/2022-03-07-KnowledgeGraphs%40nfdi4Culture.pdf), NFDI Infratalks, online.
 - **04.02.2022**: ["With Knowledge Doubt Increases" - The Significance of Knowledge in Knowledge Graphs](https://github.com/lysander07/Presentations/blob/main/Keynote%20Graphs%20%26%20Networks%20in%20the%20Humanities%202022.pdf), Keynote at 6th International Conference Graphs & Networks in the Humanities 2022.
