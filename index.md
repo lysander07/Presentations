@@ -5,6 +5,7 @@ GitHub repository with publicly available presentations by Prof. Dr. Harald Sack
 - [Homepage at KIT](https://www.aifb.kit.edu/web/Harald_Sack/en)
 
 ### Presentations 2023
+- **17.04.2023**: [Knowledge Graph based RDM Solutions for nfdi4culture, NFDI-MatWerk and beyond](https://github.com/lysander07/Presentations/raw/main/Harald-NFDI4DS-Berlin_2023-04-17.pdf), NFDI4DataScience Plenary, Berlin.
 - **19.01.2023**: [Symbolic and Subsymbolic AI - An Epic Dilemma?](https://github.com/lysander07/Presentations/raw/main/EGC2023_Symbolic%20and%20Subsymbolic%20AI%20%20-%20an%20Epic%20Dilemma.pdf), [Extraction et Gestion des Connaissances (EGC 2023)](https://egc2023.sciencesconf.org/), Keynote, Lyon (online).
 
 ### Presentations 2022
